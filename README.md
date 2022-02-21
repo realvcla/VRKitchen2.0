@@ -27,7 +27,7 @@ VRkitchen2.0 includes a comprehensive collection of realistic household tasks. T
 |   VirtualHome (2018 MIT)      |   None            |   Low                 |   Realistic       |   Open Source     |
 |   Sapien (2020 UCSD)          |   Low             |   None                |   Limited         |   Limited         |
 |   3DWorld (2021 IBM-MIT)      |   Low             |   Photo-realistic     |   None            |   Low             |
-|   iGibison2.0 (2021 Stanford) |   Fake            |   Photo-realistic     |   Realistic       |   Low             |
+|   iGibison2.0 (2021 Stanford) |   Low             |   Photo-realistic     |   Realistic       |   Low             |
 |   Habitat2.0  (2021 Facebook) |   Low             |   Photo-realistic     |   Limited         |   Low             |
 |   **VRK2.0 (2022 UCLA)**      |   **High**        |   **Photo-realistic** |   **Realistic**   |   **Open Source** |
 
