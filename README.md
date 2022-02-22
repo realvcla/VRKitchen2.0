@@ -1,4 +1,4 @@
-# VRKitchen2.0
+# VRKitchen2.0 [Full code coming soon 2/21/2022]
 
 <img src="images/overview.png"/>
 
@@ -31,3 +31,16 @@ VRkitchen2.0 includes a comprehensive collection of realistic household tasks. T
 |   Habitat2.0  (2021 Facebook) |   Low             |   Photo-realistic     |   Limited         |   Low             |
 |   **VRK2.0 (2022 UCLA)**      |   **High**        |   **Photo-realistic** |   **Realistic**   |   **Open Source** |
 
+## Task Samples
+
+### Turn on the light
+
+<img src="images/task_light.png" width="800" />
+
+### Open the drawer/closet
+
+<img src="images/task_drawer.png" width="800" />
+
+### Pickup the bottle
+
+<img src="images/task_pickup.png" width="800" />
