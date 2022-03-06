@@ -41,6 +41,14 @@ VRkitchen2.0 includes a comprehensive collection of realistic household tasks. T
 
 <img src="images/task_drawer.png" width="800" />
 
+### Open the door
+
+<img src="images/task_door.png" width="800" />
+
 ### Pickup the bottle
 
 <img src="images/task_pickup.png" width="800" />
+
+### Reorient stuff
+
+<img src="images/task_reorient.png" width="800" />
